@@ -15,7 +15,7 @@ Most of my school projects are private Github repositories, but there is still p
 Some additional details about projects are available on my [website](https://antoinedesanti.com).\
 <br>
 
-### My Github Stats
+### Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntoineDesanti&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineDesanti&layout=compact&hide=lua)
 
